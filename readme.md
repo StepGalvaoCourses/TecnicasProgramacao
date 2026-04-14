@@ -17,8 +17,8 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 ## 📚 Bibliografia e Materiais de Apoio
 
 ### 📖 Livro Texto
-* **Guedes, Paulo.** *Lógica de Programação com Python*. [Link/Editora]
 * **Menezes, Nilo Ney.** *Introdução à Programação com Python: Algoritmos e Lógica de Programação para Iniciantes*. Novatec.
+* **Guedes, Paulo.** *Lógica de Programação com Python*. [Link/Editora]
 
 ### 🔗 Material Complementar
 * [Documentação Oficial do Python](https://docs.python.org/pt-br/3/)
@@ -38,8 +38,8 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | 19/03 | Qui | Entrada de dados | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_02_Variavel_Tipos-040e544021c54a14b1c9e7a4eda93e1c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_03_Entrada_Dados-95bc22ce44654d3580f8848d29f5634b.pdf) / [Gabarito](/gabaritos/trabalho2/) |
 | 25/03 | Qua | Correção e Atividade de desafios | - |  📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_04_Entrada_Desafios-9caa4ddfad13457fb95523622098d65e.pdf) / [Gabarito](/gabaritos/trabalho3/) |
 | 26/03 | Qui | Estrutura condicional: IF…ELSE | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_04_EstruturaCondicional-e0704a8a0f3f4481aaddba7b00437555.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_05_Condicional_I-f6be9ef8a39e49e8afe184305c8d94f4.pdf) / [Gabarito](/gabaritos/trabalho4/) |
-| 01/04 | Qua | Conectores lógicos e Intervalos | - |  - |
-| **08/04** | **Qua** | **🔴 PROVA 1** | 📝 [Prova Anterior](https://suap.ifpi.edu.br/media/edu/material_aula/Prova_01_anterior-0bc6b3dc7266425894fa71dc243076dd.pdf) | - |
+| 01/04 | Qua | Conectores lógicos e Intervalos |[📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_05_ConectoresLogico-f93b6ee6c8a7457a95e17464d18e81db.pdf)| 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_05_Condicional_Parte_III_Conectores-359a9f432dd2491eaac43e4dede0b385.pdf) / [Gabarito](/gabaritos/trabalho4/)  |
+| **08/04** | **Qua** | **🔴 PROVA 1** | 📝 [Prova Anterior](https://suap.ifpi.edu.br/media/edu/material_aula/Prova_01_anterior-0bc6b3dc7266425894fa71dc243076dd.pdf) | [Gabarito](/gabaritos/trabalho5/) |
 | 09/04 | Qui | Estrutura condicional: ELIF | - |  - |
 | 11/04 | Sáb | 🤖 **Prática ESP32** (Sábado Letivo) | [📋 Roteiro] (#) | [💻 Código] (#) |
 | 15/04 | Qua | Atividade de fixação | - |  - |
