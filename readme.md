@@ -38,30 +38,29 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | 19/03 | Qui | Entrada de dados | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_02_Variavel_Tipos-040e544021c54a14b1c9e7a4eda93e1c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_03_Entrada_Dados-95bc22ce44654d3580f8848d29f5634b.pdf) / [Gabarito](/gabaritos/trabalho2/) |
 | 25/03 | Qua | Correção e Atividade de desafios | - |  📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_04_Entrada_Desafios-9caa4ddfad13457fb95523622098d65e.pdf) / [Gabarito](/gabaritos/trabalho3/) |
 | 26/03 | Qui | Estrutura condicional: IF…ELSE | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_04_EstruturaCondicional-e0704a8a0f3f4481aaddba7b00437555.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_05_Condicional_I-f6be9ef8a39e49e8afe184305c8d94f4.pdf) / [Gabarito](/gabaritos/trabalho4/) |
-| 01/04 | Qua | Conectores lógicos e Intervalos |[📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_05_ConectoresLogico-f93b6ee6c8a7457a95e17464d18e81db.pdf)| 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_05_Condicional_Parte_III_Conectores-359a9f432dd2491eaac43e4dede0b385.pdf) / [Gabarito](/gabaritos/trabalho4/)  |
-| **08/04** | **Qua** | **🔴 PROVA 1** | 📝 [Prova Anterior](https://suap.ifpi.edu.br/media/edu/material_aula/Prova_01_anterior-0bc6b3dc7266425894fa71dc243076dd.pdf) | [Gabarito](/gabaritos/trabalho5/) |
-| 09/04 | Qui | Estrutura condicional: ELIF | - |  - |
-| 11/04 | Sáb | 🤖 **Prática ESP32** (Sábado Letivo) | [📋 Roteiro] (#) | [💻 Código] (#) |
-| 15/04 | Qua | Atividade de fixação | - |  - |
-| 16/04 | Qui | Atividade Pessoal | - |  - |
-| 22/04 | Qua | Estrutura de Repetição (While) | - |  - |
+| 01/04 | Qua | Resolução da Atividade |-| -|
+| 08/04 | Qua | Exercício | - | - |
+| 09/04 | Qua | Conectores lógicos e Intervalos |[📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_05_ConectoresLogico-f93b6ee6c8a7457a95e17464d18e81db.pdf)| 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_05_Condicional_Parte_III_Conectores-359a9f432dd2491eaac43e4dede0b385.pdf) / [Gabarito](/gabaritos/trabalho5/)  |
+| **11/04** | **Sáb** | **Apresentação de TCC** | -  | - |
+| **15/04** | **Qua** | **🔴 PROVA 1** | 📝 [Arquivo](https://suap.ifpi.edu.br/media/edu/material_aula/Prova1_Superior-4ff8cda1be884365aa3e9fecaa74e405.docx) | ✅ [Gabarito](https://suap.ifpi.edu.br/media/edu/material_aula/Prova1_Superior_Gabarito-15eb30560570420d9486d2868503a0ed.pdf)  | 
+| ~~16/04~~ | ~~Qui~~ | ~~Atividade Pessoal~~ | - |  - |
+| 22/04 | Qua | Condicional Aninhado- ELIF  | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_06_ELIF-fae7a4acb8c743bd8326fa8e63ab8882.pdf) | 📝[Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Condicional_Parte_IV__ELIF-d0c354ec16c84e32a431941a41bf3c3b.pdf) |
 | 23/04 | Qui | Atividade de Fixação | - |  - |
-| 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro] (#) | [💻 Código] (#) |
-| 29/04 | Qua | Estruturas de Repetição (For) | - |  - |
-| 30/04 | Qui | Atividade de Fixação | - |  - |
-| 06/05 | Qua | Sequências e Acumuladores | - |  - |
-| **07/05** | **Qui** | **🔴 PROVA 2** | - | - |
-| 13/05 | Qua | Função parte 1  | - |  - |
-| 14/05 | Qui | Atividade de Fixação | - |  - |
-| 20/05 | Qua | Função parte 2  | - |  - |
+| 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro](#) | [💻 Código](#) |
+| 30/04 | Qui | Estrutura de Repetição: WHILE | - |  - |
+| 06/05 | Qua | Atividade de Fixação | - |  - |
+| 07/05 | Qui | Estrutura de Repetição: FOR| - | - |
+| 13/05 | Qua | Atividade de Fixação| - |  - |
+| **14/05** | **Qui** | **🔴 PROVA 2** | - |  - |
+| 20/05 | Qua | Função parte 1  | - |  - |
 | 21/05 | Qui | Atividade de Fixação | - |  - |
-| 27/05 | Qua | Função parte 3 | - |  - |
+| 27/05 | Qua | Função parte 2 | - |  - |
 | 28/05 | Qui | Atividade de Fixação | - |  - |
 | 30/05 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro] (#) | [💻 Código] (#) |
-| 03/06 | Qua | Atividade de Fixação | - |  - |
+| 03/06 | Qua | Função parte 3 | - |  - |
 | **10/06** | **Qua** | **🔴 PROVA 3** | - | - |
 | 11/06 | Qui | Listas: Conceito e Declaração | - |  - |
-| 13/06 | Sáb | 🤖 **Prática ESP32** (Sábado Letivo) | [📋 Roteiro] (#) | [💻 Código] (#) |
+| 13/06 | Sáb | 🤖 **Prática ESP32** (Letivo) | [📋 Roteiro] (#) | [💻 Código] (#) |
 | 17/06 | Qua | Atividade de Fixação | - |  - |
 | 18/06 | Qui | Lista: percorrer listas | - |  - |
 | 24/06 | Qua | Atividade de Fixação | - |  - |
