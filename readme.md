@@ -44,8 +44,8 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | **11/04** | **Sáb** | **Apresentação de TCC** | -  | - |
 | **15/04** | **Qua** | **🔴 PROVA 1** | 📝 [Arquivo](https://suap.ifpi.edu.br/media/edu/material_aula/Prova1_Superior-4ff8cda1be884365aa3e9fecaa74e405.docx) | ✅ [Gabarito](https://suap.ifpi.edu.br/media/edu/material_aula/Prova1_Superior_Gabarito-15eb30560570420d9486d2868503a0ed.pdf)  | 
 | ~~16/04~~ | ~~Qui~~ | ~~Atividade Pessoal~~ | - |  - |
-| 22/04 | Qua | Condicional Aninhado- ELIF  | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_06_ELIF-fae7a4acb8c743bd8326fa8e63ab8882.pdf) | 📝[Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Condicional_Parte_IV__ELIF-d0c354ec16c84e32a431941a41bf3c3b.pdf) |
-| 23/04 | Qui | Atividade de Fixação | - |  - |
+| 22/04 | Qua | Condicional Aninhado- ELIF  | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_06_ELIF-fae7a4acb8c743bd8326fa8e63ab8882.pdf) | 📝[Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Condicional_Parte_IV__ELIF-c8f6bead916a4588b5fef06b817f24ba.pdf) |
+| 23/04 | Qui | Correção da Atividade | - |  - |
 | 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro](#) | [💻 Código](#) |
 | 30/04 | Qui | Estrutura de Repetição: WHILE | - |  - |
 | 06/05 | Qua | Atividade de Fixação | - |  - |
