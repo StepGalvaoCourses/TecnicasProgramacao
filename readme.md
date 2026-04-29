@@ -47,6 +47,7 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | 22/04 | Qua | Condicional Aninhado- ELIF  | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_06_ELIF-fae7a4acb8c743bd8326fa8e63ab8882.pdf) | 📝[Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Condicional_Parte_IV__ELIF-c8f6bead916a4588b5fef06b817f24ba.pdf) |
 | 23/04 | Qui | Correção da Atividade | - |  - |
 | 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro](#) | [💻 Código](#) |
+| 30/04 | Qui | Estrutura de Repetição: WHILE | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_07_Repeticao_While-4473d1d82daf4c349581ba0b01b47a3c.pdf) |  - |
 | 30/04 | Qui | Estrutura de Repetição: WHILE | - |  - |
 | 06/05 | Qua | Atividade de Fixação | - |  - |
 | 07/05 | Qui | Estrutura de Repetição: FOR| - | - |
