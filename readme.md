@@ -49,7 +49,7 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro](#) | [💻 Código](#) |
 | 30/04 | Qui | Estrutura de Repetição: WHILE | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_07_Repeticao_While-4473d1d82daf4c349581ba0b01b47a3c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Repeticao-06781aae29f94c709320d5b3fc88311a.pdf) |
 | 31/04 | Qui | Correção da Atividade| - | - |
-| 06/05 | Qua | Estrutura de Repetição: FOR | - |  - |
+| 06/05 | Qua | Estrutura de Repetição: FOR | 📰 [slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_08_RepeticaoFor-b2e4f785447745d3a78844ca9a847a04.pdf) |  - |
 | 07/05 | Qui | Atividade de Fixação| - | - |
 | 13/05 | Qua | Acumuladores e Sequências | - |  - |
 | **14/05** | **Qui** | **🔴 PROVA 2** | - |  - |
