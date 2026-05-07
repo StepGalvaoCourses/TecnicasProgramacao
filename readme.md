@@ -32,7 +32,7 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | Data | Dia | Conteúdo / Atividade | Materiais | Atividades |
 | :--- | :--- | :--- | :--- | :--- |
 | 11/03 | Qua | Apresentação e Ambiente Python | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/00_Apresentacao-7c8b3c4351a945bab1440f6c2d85e583.pdf) | - |
-| 12/03 | Qui | Hello Word | [📰  Slides](#) | -|
+| 12/03 | Qui | Hello Word | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_01_Algoritmo-d2ca39d534364678af114e12fec9e58a.pdf) | -|
 | 16/03 | Seg | Variáveis, Tipos e Expressões | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_02_Variavel_Tipos-040e544021c54a14b1c9e7a4eda93e1c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_02_Variavel-33ccd94b55cc4d798349e37e3ba67fca.pdf) / [Gabarito](/gabaritos/trabalho1/) |
 | 18/03 | Qua | Correção da Atividade | - | - |
 | 19/03 | Qui | Entrada de dados | [📰  Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_02_Variavel_Tipos-040e544021c54a14b1c9e7a4eda93e1c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_03_Entrada_Dados-95bc22ce44654d3580f8848d29f5634b.pdf) / [Gabarito](/gabaritos/trabalho2/) |
@@ -49,8 +49,8 @@ O foco é o aprendizado de lógica de programação utilizando a linguagem **Pyt
 | 25/04 | Sáb | 🤖 **Prática ESP32** (Reposição) | [📋 Roteiro](#) | [💻 Código](#) |
 | 30/04 | Qui | Estrutura de Repetição: WHILE | 📰 [Slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_07_Repeticao_While-4473d1d82daf4c349581ba0b01b47a3c.pdf) | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Repeticao-06781aae29f94c709320d5b3fc88311a.pdf) |
 | 31/04 | Qui | Correção da Atividade| - | - |
-| 06/05 | Qua | Estrutura de Repetição: FOR | 📰 [slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_08_RepeticaoFor-b2e4f785447745d3a78844ca9a847a04.pdf) |  📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_06_Repeticao-06781aae29f94c709320d5b3fc88311a.pdf) |
-| 07/05 | Qui | Atividade de Fixação| - | - |
+| 06/05 | Qua | Estrutura de Repetição: FOR | 📰 [slides](https://suap.ifpi.edu.br/media/edu/material_aula/Aula_08_RepeticaoFor-b2e4f785447745d3a78844ca9a847a04.pdf) |  📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_07_RepeticaoFor-f57010e8131a4c55b6c8237dc2ddf604.pdf) |
+| 07/05 | Qui | Atividade de Fixação| - | 📝 [Atividade](https://suap.ifpi.edu.br/media/trabalhos/Atividade_07_RepeticaoFor-f57010e8131a4c55b6c8237dc2ddf604.pdf) |
 | 13/05 | Qua | Acumuladores e Sequências | - |  - |
 | **14/05** | **Qui** | **🔴 PROVA 2** | - |  - |
 | 20/05 | Qua | Função parte 1  | - |  - |
